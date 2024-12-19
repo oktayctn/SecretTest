@@ -54,4 +54,12 @@ public class SecretConfig {
             -----END PUBLIC KEY-----
             """;
     }
+
+    public static class RandomSecrets {
+        public static final String A9fYx3hQ = "X1aBz4&3F@7$DgQ";
+        public static final String Z3vP7wLb = "6k%J8QpR!zV2G3";
+        public static final String M6tYp4Rs = "s3@F$9xBg2#TpV";
+        public static final String Q8kRw3Nz = "V9pJ7!k%X4Dg2$";
+        public static final String L5qZv2Wt = "F@B6&X3z9Tp8!J";
+    }
 }
